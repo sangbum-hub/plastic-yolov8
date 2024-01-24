@@ -1,0 +1,12 @@
+# classes name
+names:
+- PE
+- PET
+- PP
+- PS
+# num classes
+nc: 4
+# image path
+test: ../recycle_sample/training_data/images/test
+train: ../recycle_sample/training_data/images/train
+val: ../recycle_sample/training_data/images/val
